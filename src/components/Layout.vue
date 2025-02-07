@@ -17,7 +17,7 @@
       <div class="header__container container _large">
         <a href="index.html" class="header__logo">
           <img
-            src="img/logo.svg"
+            src="/img/logo.svg"
             alt=""
             width="150"
             class="header__logo--img"
@@ -46,7 +46,7 @@
               <ul class="header__user-info--list">
                 <li class="header__user-info--item">
                   <img
-                    src="img/header/chip-length.svg"
+                    src="/img/header/chip-length.svg"
                     width="20"
                     height="20"
                     alt="Poker chip"
@@ -56,7 +56,7 @@
                 </li>
                 <li class="header__user-info--item">
                   <img
-                    src="img/header/dollar.svg"
+                    src="/img/header/dollar.svg"
                     width="20"
                     height="20"
                     alt="Dollar"
@@ -93,7 +93,7 @@
                         <div class="notification-item__body">
                           <div class="notification-item__header">
                             <img
-                              src="img/icons/info.svg"
+                              src="/img/icons/info.svg"
                               width="20"
                               height="20"
                               alt=""
@@ -134,7 +134,7 @@
                         <div class="notification-item__body">
                           <div class="notification-item__header _message">
                             <img
-                              src="img/icons/bell.svg"
+                              src="/img/icons/bell.svg"
                               width="20"
                               height="20"
                               alt=""
@@ -156,7 +156,7 @@
                         <div class="notification-item__body">
                           <div class="notification-item__header _error">
                             <img
-                              src="img/icons/error.svg"
+                              src="/img/icons/error.svg"
                               width="20"
                               height="20"
                               alt=""
@@ -181,7 +181,7 @@
                         <div class="notification-item__body">
                           <div class="notification-item__header _message">
                             <img
-                              src="img/icons/bell.svg"
+                              src="/img/icons/bell.svg"
                               width="20"
                               height="20"
                               alt=""
@@ -206,7 +206,7 @@
                         <div class="notification-item__body">
                           <div class="notification-item__header _message">
                             <img
-                              src="img/icons/bell.svg"
+                              src="/img/icons/bell.svg"
                               width="20"
                               height="20"
                               alt=""
@@ -274,11 +274,11 @@
                 type="button"
                 class="header__account--target header__drop-down--target"
               >
-                <!-- <img src="img/header/avatar.jpg" width="27" height="27" alt="Your avatar" class="header__account--avatar"> -->
+                <!-- <img src="/img/header/avatar.jpg" width="27" height="27" alt="Your avatar" class="header__account--avatar"> -->
                 <picture>
-                  <source srcset="img/header/avatar.webp" type="image/webp" />
+                  <source srcset="/img/header/avatar.webp" type="image/webp" />
                   <img
-                    src="img/header/avatar.jpg"
+                    src="/img/header/avatar.jpg"
                     width="27"
                     height="27"
                     alt="Ваш аватар"
@@ -323,9 +323,9 @@
         <div class="header__nav-mob">
           <div class="header__nav-mob--bg">
             <picture>
-              <source srcset="img/header/bg.webp" type="image/webp" />
+              <source srcset="/img/header/bg.webp" type="image/webp" />
               <img
-                src="img/header/bg.png"
+                src="/img/header/bg.png"
                 alt=""
                 loading="lazy"
                 width="0"
@@ -347,11 +347,11 @@
                   >
                     <picture>
                       <source
-                        srcset="img/header/avatar.webp"
+                        srcset="/img/header/avatar.webp"
                         type="image/webp"
                       />
                       <img
-                        src="img/header/avatar.jpg"
+                        src="/img/header/avatar.jpg"
                         width="27"
                         height="27"
                         alt=""
@@ -682,7 +682,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -699,7 +699,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -716,7 +716,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -733,7 +733,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -750,7 +750,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -767,7 +767,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -784,7 +784,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -801,7 +801,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -818,7 +818,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -835,7 +835,7 @@
                           <li class="game__chat--item">
                             <div class="game__chat--avatar">
                               <img
-                                src="img/account/avatar.png"
+                                src="/img/account/avatar.png"
                                 width="24"
                                 height="24"
                                 alt=""
@@ -890,7 +890,7 @@
                     <div class="game__player--body">
                       <div class="game__player--avatar">
                         <img
-                          src="img/account/avatar.png"
+                          src="/img/account/avatar.png"
                           width="76"
                           height="76"
                           alt=""
@@ -942,7 +942,7 @@
                     </div>
                     <div class="game__user--avatar">
                       <img
-                        src="img/account/avatar.png"
+                        src="/img/account/avatar.png"
                         alt=""
                         class="game__user--avatar-img"
                       />
@@ -1016,7 +1016,7 @@
         <div class="footer__intro">
           <a href="index.html" class="footer__logo">
             <img
-              src="img/logo.svg"
+              src="/img/logo.svg"
               width="100"
               height="39"
               loading="lazy"
@@ -1192,11 +1192,11 @@
               >
                 <picture>
                   <source
-                    srcset="img/main-page/games/image-6.webp"
+                    srcset="/img/main-page/games/image-6.webp"
                     type="image/webp"
                   />
                   <img
-                    src="img/main-page/games/image-6.png"
+                    src="/img/main-page/games/image-6.png"
                     alt=""
                     loading="lazy"
                     width="300"
@@ -1213,11 +1213,11 @@
               >
                 <picture>
                   <source
-                    srcset="img/main-page/games/image-7.webp"
+                    srcset="/img/main-page/games/image-7.webp"
                     type="image/webp"
                   />
                   <img
-                    src="img/main-page/games/image-7.png"
+                    src="/img/main-page/games/image-7.png"
                     alt=""
                     loading="lazy"
                     width="300"
@@ -1234,11 +1234,11 @@
               >
                 <picture>
                   <source
-                    srcset="img/main-page/games/image-1.webp"
+                    srcset="/img/main-page/games/image-1.webp"
                     type="image/webp"
                   />
                   <img
-                    src="img/main-page/games/image-1.png"
+                    src="/img/main-page/games/image-1.png"
                     alt=""
                     loading="lazy"
                     width="300"
@@ -1271,11 +1271,11 @@
             >
               <picture>
                 <source
-                  srcset="img/popups/decor-image-1.webp"
+                  srcset="/img/popups/decor-image-1.webp"
                   type="image/webp"
                 />
                 <img
-                  src="img/popups/decor-image-1.png"
+                  src="/img/popups/decor-image-1.png"
                   alt=""
                   loading="lazy"
                   width="0"
@@ -1290,11 +1290,11 @@
             >
               <picture>
                 <source
-                  srcset="img/popups/decor-image-2.webp"
+                  srcset="/img/popups/decor-image-2.webp"
                   type="image/webp"
                 />
                 <img
-                  src="img/popups/decor-image-2.png"
+                  src="/img/popups/decor-image-2.png"
                   alt=""
                   loading="lazy"
                   width="0"
@@ -1321,7 +1321,7 @@
             </button>
             <div class="registration-popup__logo popup-logo">
               <img
-                src="img/logo.svg"
+                src="/img/logo.svg"
                 width="100"
                 height="38"
                 alt=""
@@ -1487,11 +1487,11 @@
             >
               <picture>
                 <source
-                  srcset="img/popups/decor-image-1.webp"
+                  srcset="/img/popups/decor-image-1.webp"
                   type="image/webp"
                 />
                 <img
-                  src="img/popups/decor-image-1.png"
+                  src="/img/popups/decor-image-1.png"
                   alt=""
                   loading="lazy"
                   width="0"
@@ -1506,11 +1506,11 @@
             >
               <picture>
                 <source
-                  srcset="img/popups/decor-image-2.webp"
+                  srcset="/img/popups/decor-image-2.webp"
                   type="image/webp"
                 />
                 <img
-                  src="img/popups/decor-image-2.png"
+                  src="/img/popups/decor-image-2.png"
                   alt=""
                   loading="lazy"
                   width="0"
@@ -1537,7 +1537,7 @@
             </button>
             <div class="login-popup__logo popup-logo">
               <img
-                src="img/logo.svg"
+                src="/img/logo.svg"
                 width="100"
                 height="38"
                 alt=""
@@ -1680,7 +1680,7 @@
             </button>
             <div class="forgot-password-popup__logo popup-logo">
               <img
-                src="img/logo.svg"
+                src="/img/logo.svg"
                 width="100"
                 height="38"
                 alt=""
@@ -1754,7 +1754,7 @@
             </button>
             <div class="password-send-popup__logo popup-logo">
               <img
-                src="img/logo.svg"
+                src="/img/logo.svg"
                 width="100"
                 height="38"
                 alt=""
@@ -1805,7 +1805,7 @@
             </button>
             <div class="subscribe-popup__logo popup-logo">
               <img
-                src="img/logo.svg"
+                src="/img/logo.svg"
                 width="100"
                 height="38"
                 alt=""
@@ -1877,7 +1877,7 @@
             </button>
             <div class="promocode-popup__logo popup-logo">
               <img
-                src="img/logo.svg"
+                src="/img/logo.svg"
                 width="100"
                 height="38"
                 alt=""
