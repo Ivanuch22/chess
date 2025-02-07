@@ -62,12 +62,17 @@ onMounted(() => {
 
 <style>
 .testing {
-  background-image: url(/img/chess/table.webp);
-  position: relative;
   height: 58vh;
-  padding: 20px;
+}
+cg-container {
+  background-image: url(/img/chess/table-mob.webp);
+  position: relative;
   background-position: center center;
   background-size: cover;
+  background-repeat: no-repeat;
+  overflow: visible;
+}
+.orientation-white {
 }
 .cg-wrap {
   width: 700px;
@@ -107,9 +112,9 @@ cg-board square {
 cg-board,
 .main-board .cg-wrap {
   position: absolute;
-  width: 77%;
-  height: 86.5%;
-  top: 44px;
+  width: 69%;
+  height: 69.5%;
+  top: 87px;
   left: 76px;
 }
 
