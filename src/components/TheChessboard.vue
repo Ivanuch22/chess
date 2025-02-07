@@ -114,7 +114,7 @@ cg-board,
   position: absolute;
   width: 74%;
   height: 74.5%;
-  top: 81px;
+  top: 77px;
   left: 73px;
 }
 
