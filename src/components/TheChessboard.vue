@@ -68,7 +68,7 @@ cg-container {
   background-image: url(/img/chess/table-mob.webp);
   position: relative;
   background-position: center center;
-  background-size: cover;
+  background-size: 108%;
   background-repeat: no-repeat;
   overflow: visible;
 }
@@ -112,9 +112,9 @@ cg-board square {
 cg-board,
 .main-board .cg-wrap {
   position: absolute;
-  width: 69%;
-  height: 69.5%;
-  top: 87px;
+  width: 74%;
+  height: 74.5%;
+  top: 81px;
   left: 76px;
 }
 
