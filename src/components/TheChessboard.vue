@@ -115,7 +115,7 @@ cg-board,
   width: 74%;
   height: 74.5%;
   top: 81px;
-  left: 76px;
+  left: 73px;
 }
 
 cg-board square.move-dest {
